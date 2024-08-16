@@ -1,0 +1,9 @@
+# ninja log v6
+1	435	1723807223200247831	CMakeFiles/spaceship_thrust.dir/main.cpp.o	862e4a34cb8c581a
+438	490	1723807223637130906	spaceship_thrust	c8404f5813d22fc6
+5	362	1723807247424722706	CMakeFiles/spaceship_thrust.dir/main.cpp.o	862e4a34cb8c581a
+362	422	1723807247781344650	spaceship_thrust	c8404f5813d22fc6
+6	411	1723807318902069238	CMakeFiles/spaceship_thrust.dir/main.cpp.o	862e4a34cb8c581a
+411	468	1723807319307743228	spaceship_thrust	c8404f5813d22fc6
+6	423	1723807368148805089	CMakeFiles/spaceship_thrust.dir/main.cpp.o	862e4a34cb8c581a
+424	473	1723807368565981705	spaceship_thrust	c8404f5813d22fc6
